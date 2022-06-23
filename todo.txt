@@ -1,0 +1,6 @@
+• Add a way to upload new verbs and sounds.
+• Read/Read/Read... This cases should be handled.
+• Better database search. (Use OR on the queries! That should be an improvement)
+• The code is awful... Do something about it!
+• Different languages?
+• More conjugations?
